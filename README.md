@@ -1,3 +1,4 @@
+![logo](https://github.com/iamsurajchahar/iamsurajchahar/blob/main/Github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Suraj Singh Chahar</h1>
 <h3 align="center">A Software Engineer</h3>
 
