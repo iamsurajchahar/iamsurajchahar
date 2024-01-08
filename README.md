@@ -1,4 +1,4 @@
-### Hey, I'm Miraya 👋 
+### Hey, I'm Suraj Singh Chahar 👋 
 
 I'm a 21-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
