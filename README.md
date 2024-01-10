@@ -16,7 +16,7 @@ I'm currently a fourth year student at Vellore Institute of Techonolgy, where my
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts 
-- As a kid, I wanted to be an Army Officer.
+- As a kid, I wanted to be an Formula 1 Racer.
 - I love using Linux after switching from Windows.
 
 ## 📫 Contact
