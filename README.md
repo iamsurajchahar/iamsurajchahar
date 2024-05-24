@@ -2,7 +2,7 @@
 
 I'm a 20-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website](https://imsurajchahar.netlify.app/) to learn more about me.
+- Check out my [website]([https://imsurajchahar.netlify.app/](https://dreamy-fudge-ed6531.netlify.app/)) to learn more about me.
 - Explore my [blog](Soon Gonna apply) where I share insights and learnings.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/suuraaaaj), [LinkedIn](www.linkedin.com/in/imsurajchahar) and [YouTube](Soon Going to deploy).
 - Explore my [VS Code Configuration](https://github.com/iamsurajchahar/vscode-setting) for development optimization.
