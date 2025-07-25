@@ -9,7 +9,7 @@ I'm a 22-year-old developer based in India, and I'm passionate about crafting di
 
 ## 🔭 Current Endeavors 
 
-I'm currently a fourth year student at Vellore Institute of Techonolgy, where my journey involves both building and learning. Here's what I'm currently focused on:
+I'm a recent Computer Science graduate from VIT Bhopal, focused on building meaningful projects and streamlining workflows through automation. I enjoy creating fast, scalable solutions and continuously improving through hands-on learning.
 
 - I'm engaged in exciting fullstack projects and automating things(DevOps)
 - I'm exploring different tools and libraries to enhance my skill set.
