@@ -1,24 +1,62 @@
-### Hey, I'm Suraj Singh Chahar 👋 
+<div align="center">
 
-I'm a 22-year-old developer based in India, and I'm passionate about crafting digital experiences. 
+# `> player_1: suraj singh chahar`
 
-- Check out my [website](https://imsurajchahar.vercel.app/). to learn more about me.
-- Explore my [blog](Soon Gonna apply) where I share insights and learningzs.
-- Stay updated with my journey on [Instagram](https://www.instagram.com/soorajbutwithu), [LinkedIn](https://www.linkedin.com/in/imsurajchahar/) and [YouTube](Soon Going to deploy).
-- Explore my [VS Code Configuration](https://github.com/iamsurajchahar/vscode-setting) for development optimization.
+**software engineer** · **linux enjoyer** 🐧
 
-## 🔭 Current Endeavors 
+*crafting digital experiences from india* 🇮🇳
 
-I'm a recent Computer Science graduate from VIT Bhopal, focused on building meaningful projects and streamlining workflows through automation. I enjoy creating fast, scalable solutions and continuously improving through hands-on learning.
+<br>
 
-- I'm engaged in exciting fullstack projects and automating things(DevOps)
-- I'm exploring different tools and libraries to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in the tech world.
+[![Portfolio](https://img.shields.io/badge/portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://imsurajchahar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/imsurajchahar/)
+[![Instagram](https://img.shields.io/badge/instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/soorajbutwithu)
 
-## ✨ Fun Facts 
-- As a kid, I wanted to be an Formula 1 Racer.
-- I love using Linux after switching from Windows.
+</div>
 
-## 📫 Contact
+<br>
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/soorajbutwithu/) or [LinkedIn](https://www.linkedin.com/in/imsurajchahar/).
+```js
+const suraj = {
+  age: 22,
+  class: "Software Engineer",
+  os: "Linux", // escaped Windows, never looked back
+  childhoodDream: "F1 Racer 🏎️", // now I just make code go fast instead
+  status: "online ●",
+};
+```
+
+<br>
+
+### ⚔️ current quest
+
+- shipping projects that load fast & scale hard
+- automating everything that moves — workflows, scripts, life
+- grinding XP with new tools & libraries, one repo at a time
+
+### 🏆 achievements unlocked
+
+- 🎓 `CS grad` — VIT Bhopal
+- 🐧 `OS switch` — Windows → Linux, permanent respawn point
+- ⌨️ `loadout` — [my VS Code config](https://github.com/iamsurajchahar/vscode-setting), tuned like a race car
+
+### 📊 stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamsurajchahar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="stats" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsurajchahar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="languages" height="160">
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+[ early riser ] · [ fast learner ] · [ faster builder ]
+```
+
+**📫 quickest respawn:** DM on [instagram](https://www.instagram.com/soorajbutwithu/) or [linkedin](https://www.linkedin.com/in/imsurajchahar/)
+
+</div>
