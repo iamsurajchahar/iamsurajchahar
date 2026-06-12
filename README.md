@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iamsurajchahar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/imsurajchahar/)
-[![Instagram](https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/soorajbutwithu)
+[![Instagram](https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/soissuraj)
 
 </div>
 
