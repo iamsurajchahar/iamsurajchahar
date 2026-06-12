@@ -1,16 +1,14 @@
 <div align="center">
 
-# `> player_1: suraj singh chahar`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Suraj%20Singh%20Chahar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descSize=20&descAlignY=58&descColor=8b949e" width="100%"/>
 
-**software engineer** · **linux enjoyer** 🐧
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+fast%2C+scalable+web+applications;Automating+workflows;Always+learning%2C+always+shipping" alt="typing" />
 
-*crafting digital experiences from india* 🇮🇳
+<br><br>
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://imsurajchahar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/imsurajchahar/)
-[![Instagram](https://img.shields.io/badge/instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/soorajbutwithu)
+[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://imsurajchahar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/imsurajchahar/)
+[![Instagram](https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/soorajbutwithu)
 
 </div>
 
@@ -18,45 +16,33 @@
 
 ```js
 const suraj = {
-  age: 22,
-  class: "Software Engineer",
-  os: "Linux", // escaped Windows, never looked back
-  childhoodDream: "F1 Racer 🏎️", // now I just make code go fast instead
-  status: "online ●",
+  role: "Software Engineer",
+  base: "India",
+  education: "B.Tech CS — VIT Bhopal",
+  focus: ["web applications", "automation"],
+  os: "Linux",
 };
 ```
 
-<br>
+### about
 
-### ⚔️ current quest
+- I build fast, scalable web applications
+- I automate workflows to keep things simple and efficient
+- Currently exploring new tools and technologies, one project at a time
+- My [VS Code setup](https://github.com/iamsurajchahar/vscode-setting), if you want a clean dev environment
 
-- shipping projects that load fast & scale hard
-- automating everything that moves — workflows, scripts, life
-- grinding XP with new tools & libraries, one repo at a time
-
-### 🏆 achievements unlocked
-
-- 🎓 `CS grad` — VIT Bhopal
-- 🐧 `OS switch` — Windows → Linux, permanent respawn point
-- ⌨️ `loadout` — [my VS Code config](https://github.com/iamsurajchahar/vscode-setting), tuned like a race car
-
-### 📊 stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamsurajchahar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsurajchahar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="languages" height="160">
-
-</div>
+> Fun fact: as a kid I wanted to be an F1 racer — now I optimize software for speed instead. 🏎️
 
 <br>
 
 <div align="center">
 
-```text
-[ early riser ] · [ fast learner ] · [ faster builder ]
-```
+<img src="https://raw.githubusercontent.com/iamsurajchahar/iamsurajchahar/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
 
-**📫 quickest respawn:** DM on [instagram](https://www.instagram.com/soorajbutwithu/) or [linkedin](https://www.linkedin.com/in/imsurajchahar/)
+<br><br>
+
+**📫 reach me:** [LinkedIn](https://www.linkedin.com/in/imsurajchahar/) · [Instagram](https://www.instagram.com/soorajbutwithu/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
