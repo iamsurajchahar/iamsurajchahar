@@ -18,9 +18,8 @@
 const suraj = {
   role: "Software Engineer",
   base: "India",
-  education: "B.Tech CS — VIT Bhopal",
+  education: "Vellore Institute of Technology",
   focus: ["web applications", "automation"],
-  os: "Linux",
 };
 ```
 
