@@ -73,35 +73,11 @@ Check out my [**VS Code setup**](https://github.com/iamsurajchahar/vscode-settin
 
 <br>
 
-## 📊 &nbsp;Stats & Achievements
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsurajchahar&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=7928ca&text_color=c9d1d9&bg_color=0d1117" alt="github stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsurajchahar&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsurajchahar&hide_border=true&background=0d1117&stroke=1f6feb&ring=7928ca&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" width="70%" />
-
-<br><br>
-
-<!-- ░░░ TROPHY CASE ░░░ -->
-<img src="https://github-profile-trophy.vercel.app/?username=iamsurajchahar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" width="100%" />
-
-</div>
-
-<br>
-
 ## 🐍 &nbsp;Contribution Arena
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/iamsurajchahar/iamsurajchahar/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsurajchahar&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=7928ca&point=ffffff&area=true" alt="activity graph" width="100%" />
 
 </div>
 
