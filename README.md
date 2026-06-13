@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- ░░░ ANIMATED HEADER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7928ca&height=220&section=header&text=Suraj%20Singh%20Chahar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Gamer&descSize=18&descAlignY=56&descColor=c9d1d9" width="100%"/>
-
-<!-- ░░░ TYPING ANIMATION ░░░ -->
+<!-- ░░░ ANIMATED NAME (no banner) ░░░ -->
 <a href="https://iamsurajchahar.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=%3E+Building+fast%2C+scalable+web+apps;%3E+Automating+the+boring+stuff;%3E+Press+START+to+continue...;%3E+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=42&pause=1000&color=7928CA&center=true&vCenter=true&width=700&height=70&lines=Suraj+Singh+Chahar;%3C+Software+Engineer+%2F%3E;Builder+%E2%80%A2+Gamer+%E2%80%A2+Shipper" alt="name" />
 </a>
+
+<!-- ░░░ NEON GLOW DIVIDER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&width=100" width="0" height="0" alt="" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon line" />
+
+<!-- ░░░ TYPING SUBTITLE ░░░ -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=40&lines=%3E+Building+fast%2C+scalable+web+apps;%3E+Automating+the+boring+stuff;%3E+Press+START+to+continue...;%3E+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing" />
 
 <br>
 
@@ -25,6 +29,10 @@
 </div>
 
 <br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="coding gif" />
+</div>
 
 <!-- ░░░ PLAYER CARD ░░░ -->
 ```js
@@ -94,6 +102,11 @@ Check out my [**VS Code setup**](https://github.com/iamsurajchahar/vscode-settin
 
 <i>⭐ From <a href="https://github.com/iamsurajchahar">iamsurajchahar</a> — thanks for visiting, GG!</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<br><br>
+
+<!-- ░░░ ANIMATED FOOTER LINE (no banner) ░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon line" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=7928CA&center=true&vCenter=true&width=435&lines=Game+Over%3F+Never.+Just+respawning...;Thanks+for+playing+%E2%80%94+GG+%F0%9F%8E%AE" alt="footer typing" />
 
 </div>
