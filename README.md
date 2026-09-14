@@ -2,7 +2,7 @@
 
 # Suraj Singh Chahar
 
-**Software Engineer** &nbsp;·&nbsp; India 🇮🇳
+**Software Engineer** at [The Flywheel](https://www.theflywheel.in/) &nbsp;·&nbsp; India 🇮🇳
 
 Building fast, scalable web apps and automating the boring parts.
 
@@ -36,7 +36,8 @@ Building fast, scalable web apps and automating the boring parts.
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamsurajchahar&show_icons=true&hide_border=true&hide_title=true&card_width=450&icon_color=58A6FF&bg_color=00000000" alt="GitHub stats" />
+![Stars](https://img.shields.io/github/stars/iamsurajchahar?affiliations=OWNER&style=flat-square&labelColor=000&color=58A6FF)
+![Followers](https://img.shields.io/github/followers/iamsurajchahar?style=flat-square&labelColor=000&color=58A6FF)
 
 <br>
 
