@@ -1,44 +1,41 @@
 <div align="center">
 
-# Suraj Singh Chahar
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-**Software Engineer** at [The Flywheel](https://www.theflywheel.in/) &nbsp;·&nbsp; India 🇮🇳
+<h3><code>suraj@github ~ $ ./contributions.sh</code></h3>
 
-Building fast, scalable web apps and automating the boring parts.
+<img src="./contrib-heatmap.svg" width="860" alt="Suraj's GitHub contribution graph — auto-refreshed daily" />
 
-[Portfolio](https://iamsurajchahar.vercel.app/) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/imsurajchahar/) &nbsp;·&nbsp;
-[Instagram](https://www.instagram.com/soissuraj)
+<br>
+<br>
 
-</div>
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
 
----
+<h3><code>suraj@github ~ $ whoami</code></h3>
 
-### About
+<table>
+<tr>
+<td valign="top"><img src="./suraj-ascii.svg" width="420" alt="Suraj Singh Chahar — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Suraj's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
-- 🎓 Vellore Institute of Technology
-- 🧩 Web apps, automation, clean developer tooling
-- 🏎️ Wanted to be an F1 racer as a kid — now I optimize software for speed instead
-- ⚙️ My [VS Code setup](https://github.com/iamsurajchahar/vscode-setting), if you want a clean dev environment
+<br>
+<br>
 
-### Stack
+<h3><code>suraj@github ~ $ ./links.sh</code></h3>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+<p><b>Software Engineer @ The Flywheel · Web Apps · Automation</b></p>
 
-### Stats
-
-![Stars](https://img.shields.io/github/stars/iamsurajchahar?affiliations=OWNER&style=flat-square&labelColor=000&color=58A6FF)
-![Followers](https://img.shields.io/github/followers/iamsurajchahar?style=flat-square&labelColor=000&color=58A6FF)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamsurajchahar.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iamsurajchahar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imsurajchahar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsurajchahar/)
+[![Instagram](https://img.shields.io/badge/Instagram-soissuraj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soissuraj)
+[![X](https://img.shields.io/badge/X-imsurajchahar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsurajchahar)
 
 <br>
 
-<sub>Build → optimize → repeat.</sub>
+</div>
